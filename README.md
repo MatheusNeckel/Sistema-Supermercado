@@ -25,5 +25,5 @@ O projeto foi construído como prática acadêmica, aplicando conceitos de **POO
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-supermercado.git
+   git clone https://github.com/MatheusNeckel/Sistema-Supermercado.git
 
